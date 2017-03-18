@@ -208,6 +208,22 @@ header > nav > div > img {
 	width: 100%;	
 }
 
+/* CONTACT FORM */
+
+.contact-form {
+	margin: 2em auto;
+	max-width: 80%;
+}
+
+.contact-form .text-center,
+.contact-form label {
+	color: #F25D00;	
+}
+
+form {
+	margin: 0 15px;	
+}
+
 /* FOOTER */
 
 .footer {
@@ -217,7 +233,7 @@ header > nav > div > img {
 }
 
 .footer > .container {
-	margin: 0;
+	margin: 0 auto;
 }
 
 .footer h4,
